@@ -50,6 +50,9 @@ From `gradle.properties`:
 2. Sync Gradle when prompted
 3. Build and run on your device or emulator
 
+
+![Image](https://github.com/user-attachments/assets/a2af9900-d340-4308-a2a3-72652c8da2de)
+![Image](https://github.com/user-attachments/assets/8b9a33fb-207b-43b7-abbd-46463ffc62ff)
 ---
 
 ## ✅ Requirements
